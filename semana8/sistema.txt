@@ -1,0 +1,18 @@
+Información de los comandos del sistema:
+
+uname -a:
+Este comando muestra información completa del sistema operativo, incluyendo el nombre del kernel, la versión, la arquitectura del procesador y el nombre del host. Es útil para identificar el sistema operativo y su versión exacta.
+
+whoami:
+Este comando muestra el nombre de usuario actual que está logueado en la sesión. Permite verificar con qué usuario se está trabajando en el sistema.
+
+¿Por qué es útil conocer información del sistema?
+
+Cuando se administra un servidor, es importante conocer información del sistema para:
+- Verificar la versión del sistema operativo instalado
+- Identificar la arquitectura del hardware (32 o 64 bits)
+- Asegurar que el servidor cumple con los requisitos de las aplicaciones
+- Monitorear y diagnosticar problemas de compatibilidad
+- Planificar actualizaciones de seguridad específicas para la versión del sistema
+- Confirmar el usuario con el que se están ejecutando comandos
+- Documentar la configuración del servidor para auditoría y mantenimiento
